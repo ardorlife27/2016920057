@@ -1,3 +1,5 @@
+![아무이름](./Mind Map.jpg)
+
 # Me Mind Map
 ## 취미
 ### 여행
@@ -48,5 +50,3 @@
 - 학점
 - 전액장학금
 - 반액장학금
-
-![Alt text](./Mind Map.jpg)
