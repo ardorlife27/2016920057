@@ -49,4 +49,4 @@
 - 전액장학금
 - 반액장학금
 
-![Alt text](/
+![Alt text](./Mind Map.jpg)
