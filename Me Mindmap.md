@@ -1,5 +1,5 @@
 
-![아무이름](./Mindmap.jpg)
+![image](./Mindmap.jpg)
 
 # Me Mind Map
 ## 취미
