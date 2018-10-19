@@ -11,9 +11,9 @@
 
 > ### 영화보기
 - 최신영화 
-  - 서치, 너의 결혼식
-- 어벤져스
-  - 캡틴아메리카, 아이언맨, 토르, 타노스, 블랙팬서
+  - [서치](https://movie.naver.com/movie/bi/mi/basic.nhn?code=172425), [너의 결혼식](https://movie.naver.com/movie/bi/mi/basic.nhn?code=140652)
+- [어벤져스](https://movie.naver.com/movie/bi/mi/basic.nhn?code=136315)
+  - [캡틴아메리카](https://www.marvel.com/characters/captain-america-steve-rogers), [아이언맨https://www.marvel.com/characters/iron-man-tony-stark), [토르](https://www.marvel.com/characters/thor-thor-odinson), [타노스](https://www.marvel.com/characters/thanos), [블랙팬서](https://www.marvel.com/characters/black-panther-t-challa)
 
 
 
@@ -24,14 +24,14 @@
   - 동아리, 여행비용, 해외여행, 국내여행
 
 > ### 게임
-- 오버워치
+- [오버워치](https://playoverwatch.com/ko-kr/)
 > ### 노래듣기
 - 트와이스, 팝송, 10cm, 레드벨벳
  
  <h2 id="2"> 일상 </h2>
  
 > ### 학교
-- 시립대학교, 학점, 과제, 친구
+- [시립대학교](http://www.uos.ac.kr/main.do), 학점, 과제, 친구
 > ### 술
 - 소맥
 > ### 운동
