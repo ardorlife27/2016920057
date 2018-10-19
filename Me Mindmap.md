@@ -13,7 +13,7 @@
 - 최신영화 
   - [서치](https://movie.naver.com/movie/bi/mi/basic.nhn?code=172425), [너의 결혼식](https://movie.naver.com/movie/bi/mi/basic.nhn?code=140652)
 - [어벤져스](https://movie.naver.com/movie/bi/mi/basic.nhn?code=136315)
-  - [캡틴아메리카](https://www.marvel.com/characters/captain-america-steve-rogers), [아이언맨https://www.marvel.com/characters/iron-man-tony-stark), [토르](https://www.marvel.com/characters/thor-thor-odinson), [타노스](https://www.marvel.com/characters/thanos), [블랙팬서](https://www.marvel.com/characters/black-panther-t-challa)
+  - [캡틴아메리카](https://www.marvel.com/characters/captain-america-steve-rogers), [아이언맨](https://www.marvel.com/characters/iron-man-tony-stark), [토르](https://www.marvel.com/characters/thor-thor-odinson), [타노스](https://www.marvel.com/characters/thanos), [블랙팬서](https://www.marvel.com/characters/black-panther-t-challa)
 
 
 
