@@ -26,7 +26,7 @@
 > ### 게임
 - [오버워치](https://playoverwatch.com/ko-kr/)
 > ### 노래듣기
-- 트와이스, 팝송, 10cm, 레드벨벳
+- [트와이스](https://www.youtube.com/channel/UCzgxx_DM2Dcb9Y1spb9mUJA), 팝송, [10cm](https://www.youtube.com/channel/UCRmShE13u8THvf_ptRVktRg), [레드벨벳](https://www.youtube.com/channel/UCk9GmdlDTBfgGRb7vXeRMoQ)
  
  <h2 id="2"> 일상 </h2>
  
@@ -55,14 +55,14 @@
 - 해외취업 
 - 대기업
 
-> ### 교환학생
+> ### [교환학생](http://global.uos.ac.kr/kiice/study/exPro.do?loginCheck=false)
 - 영어, 토플
 
-> ### 졸업
+> ### [졸업](http://www.uos.ac.kr/kor/html/uaInfo/graduate/terms/terms.do)
 - 졸업식
 - 영어
 
-> ### 장학금
+> ### [장학금](http://scholarship.uos.ac.kr/)
 - 학점
 - 전액장학금
 - 반액장학금
